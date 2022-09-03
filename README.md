@@ -12,6 +12,7 @@ git clone https://github.com/yk803/Word_Book_GRE.git
 
 Next, open the jupyter notebook (need to have jupyter notebook installed on the computer!) and follow the instructions to add new words).
 
+![Alt text](https://github.com/yk803/Word_Book_GRE/blob/main/img/Jupyter_Notebook_Sample.png)
 
 To look up for a word, run the following line in terminal by replacing `WORD` with the actual word you are looking for. This line of code is also attached at the end of the jupyter notebook:
 
